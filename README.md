@@ -4,6 +4,7 @@
 
 ## 수록 게임
 
+- [Axis Dive](https://hsvai.github.io/AxisDive/)
 - [Ghost Shift](https://hsvai.github.io/GhostShift/)
 - [Bounce Lab](https://hsvai.github.io/BounceLab/)
 - [Zine 3D](https://ghtnql.github.io/Zine3D/)
